@@ -1,0 +1,173 @@
+{
+  "h1_steckbrief_de.txt": {
+    "name": "Murat Fiktivoglu",
+    "email": "murat.fiktivoglu@example.com",
+    "phone": "+493023125010",
+    "postal_code": "46045",
+    "city": "Oberhausen",
+    "languages": [
+      {
+        "language": "Turkish",
+        "level": "native"
+      },
+      {
+        "language": "German",
+        "level": "good"
+      },
+      {
+        "language": "English",
+        "level": "basic"
+      }
+    ],
+    "driving_licence": [
+      "B"
+    ],
+    "forklift_licence": true,
+    "skills": [
+      "order picking",
+      "warehouse"
+    ],
+    "shift_available": [
+      "early",
+      "night",
+      "weekend"
+    ],
+    "shift_unavailable": [],
+    "salary": {
+      "amount_min": 14,
+      "amount_max": 14,
+      "unit": "hour",
+      "currency": "EUR"
+    },
+    "available_from": "2027-02-01"
+  },
+  "h2_email_en.txt": {
+    "name": "Priya Beispiel",
+    "email": "priya.beispiel@example.org",
+    "phone": "+493023125011",
+    "postal_code": "47051",
+    "city": "Duisburg",
+    "languages": [
+      {
+        "language": "Hindi",
+        "level": "native"
+      },
+      {
+        "language": "English",
+        "level": "fluent"
+      },
+      {
+        "language": "German",
+        "level": "B1"
+      }
+    ],
+    "driving_licence": [
+      "B"
+    ],
+    "forklift_licence": false,
+    "skills": [
+      "order picking",
+      "packing"
+    ],
+    "shift_available": [
+      "early",
+      "late",
+      "weekend"
+    ],
+    "shift_unavailable": [
+      "night"
+    ],
+    "salary": {
+      "amount_min": 2400,
+      "amount_max": 2400,
+      "unit": "month",
+      "currency": "EUR"
+    },
+    "available_from": null
+  },
+  "h3_cv_bullets_de.txt": {
+    "name": "Sandra Probe-Fiktiv",
+    "email": "sandra.probe@example.net",
+    "phone": "+493023125012",
+    "postal_code": "59065",
+    "city": "Hamm",
+    "languages": [
+      {
+        "language": "German",
+        "level": "native"
+      },
+      {
+        "language": "Polish",
+        "level": "fluent"
+      },
+      {
+        "language": "English",
+        "level": "B1"
+      }
+    ],
+    "driving_licence": [
+      "B"
+    ],
+    "forklift_licence": true,
+    "skills": [
+      "cash handling",
+      "goods receiving",
+      "warehouse"
+    ],
+    "shift_available": [
+      "late",
+      "weekend"
+    ],
+    "shift_unavailable": [
+      "night"
+    ],
+    "salary": {
+      "amount_min": 2900,
+      "amount_max": 2900,
+      "unit": "month",
+      "currency": "EUR"
+    },
+    "available_from": "2026-12-01"
+  },
+  "h4_questionnaire_en.txt": {
+    "name": "Tomasz Fiktivski",
+    "email": "t.fiktivski@example.org",
+    "phone": null,
+    "postal_code": null,
+    "city": "Köln",
+    "languages": [
+      {
+        "language": "Polish",
+        "level": "native"
+      },
+      {
+        "language": "German",
+        "level": "A1"
+      },
+      {
+        "language": "English",
+        "level": "B2"
+      }
+    ],
+    "driving_licence": [
+      "B"
+    ],
+    "forklift_licence": false,
+    "skills": [],
+    "shift_available": [
+      "early",
+      "late",
+      "weekend"
+    ],
+    "shift_unavailable": [
+      "night"
+    ],
+    "salary": {
+      "amount_min": 13,
+      "amount_max": 13,
+      "unit": "hour",
+      "currency": "EUR"
+    },
+    "available_from": "immediately"
+  }
+}

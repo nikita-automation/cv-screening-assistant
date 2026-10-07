@@ -1,0 +1,14 @@
+Bewerberfragebogen
+
+Name: Clara Müller
+E-Mail: clara.mueller@example.org
+Telefon: 030 23125 003
+Wohnort: 44787 Bochum
+
+Führerschein: ja, Klasse B
+Staplerschein: nein
+Sprachkenntnisse: Deutsch C1; Russisch: Muttersprache
+Schichtbereitschaft: nur Frühschicht
+Gehaltsvorstellung: 13,50 € / Std.
+Verfügbar ab: 15.11.2026
+Kenntnisse: Kundenservice, Kasse, Reinigung

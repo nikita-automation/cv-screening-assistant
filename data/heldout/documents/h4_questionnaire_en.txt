@@ -1,0 +1,12 @@
+APPLICANT QUESTIONNAIRE
+
+Full name: Tomasz Fiktivski
+Email: t.fiktivski@example.org
+Place of residence: Köln
+Do you have a forklift licence? No
+Driving licence? Yes - B
+Languages (level): Polish (native), German (A1), English (B2)
+Which shifts can you work? Early shifts, late shifts, weekends
+Which shifts can you NOT work? Night shifts
+Salary expectation (EUR): 13 per hour
+Earliest start: immediately

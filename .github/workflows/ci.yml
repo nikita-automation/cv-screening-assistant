@@ -1,0 +1,38 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.9", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Unit tests
+        run: python -m unittest discover -s tests
+        env:
+          PYTHONPATH: src
+
+      - name: Regression guards on the labelled sets (rules backend)
+        run: |
+          python -m cvscreen eval --min-score 0.95
+          python -m cvscreen eval --docs data/heldout/documents --gold data/heldout/gold.json --min-score 0.70
+        env:
+          PYTHONPATH: src
+
+      - name: Screening and request preview run end to end
+        run: |
+          python -m cvscreen screen data/sample/documents | tee screen.txt
+          grep -q "qualified" screen.txt
+          python -m cvscreen request data/sample/documents/01_anna_cv_de.txt | python -c "import json,sys; r=json.load(sys.stdin); assert r['model']=='claude-opus-5-5' and 'output_config' in r"
+        env:
+          PYTHONPATH: src

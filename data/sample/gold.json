@@ -1,0 +1,476 @@
+{
+  "01_anna_cv_de.txt": {
+    "name": "Anna Beispiel",
+    "email": "anna.beispiel@example.com",
+    "phone": "+493023125001",
+    "postal_code": "45127",
+    "city": "Essen",
+    "languages": [
+      {
+        "language": "German",
+        "level": "native"
+      },
+      {
+        "language": "English",
+        "level": "B2"
+      },
+      {
+        "language": "Ukrainian",
+        "level": "native"
+      }
+    ],
+    "driving_licence": [
+      "B"
+    ],
+    "forklift_licence": true,
+    "skills": [
+      "goods receiving",
+      "inventory",
+      "MS Office",
+      "order picking",
+      "SAP",
+      "warehouse"
+    ],
+    "shift_available": [
+      "early",
+      "late",
+      "weekend"
+    ],
+    "shift_unavailable": [
+      "night"
+    ],
+    "salary": {
+      "amount_min": 2800,
+      "amount_max": 2800,
+      "unit": "month",
+      "currency": "EUR"
+    },
+    "available_from": "immediately"
+  },
+  "02_ben_cv_en.txt": {
+    "name": "Ben Muster",
+    "email": "ben.muster@example.org",
+    "phone": "+493023125002",
+    "postal_code": "44135",
+    "city": "Dortmund",
+    "languages": [
+      {
+        "language": "English",
+        "level": "fluent"
+      },
+      {
+        "language": "German",
+        "level": "B1"
+      },
+      {
+        "language": "Turkish",
+        "level": "native"
+      }
+    ],
+    "driving_licence": [
+      "B",
+      "C1"
+    ],
+    "forklift_licence": true,
+    "skills": [
+      "order picking",
+      "packing",
+      "warehouse"
+    ],
+    "shift_available": [
+      "night",
+      "weekend"
+    ],
+    "shift_unavailable": [],
+    "salary": {
+      "amount_min": 14.5,
+      "amount_max": 14.5,
+      "unit": "hour",
+      "currency": "EUR"
+    },
+    "available_from": "2026-11-01"
+  },
+  "03_clara_questionnaire_de.txt": {
+    "name": "Clara Müller",
+    "email": "clara.mueller@example.org",
+    "phone": "+493023125003",
+    "postal_code": "44787",
+    "city": "Bochum",
+    "languages": [
+      {
+        "language": "German",
+        "level": "C1"
+      },
+      {
+        "language": "Russian",
+        "level": "native"
+      }
+    ],
+    "driving_licence": [
+      "B"
+    ],
+    "forklift_licence": false,
+    "skills": [
+      "cash handling",
+      "cleaning",
+      "customer service"
+    ],
+    "shift_available": [
+      "early"
+    ],
+    "shift_unavailable": [],
+    "salary": {
+      "amount_min": 13.5,
+      "amount_max": 13.5,
+      "unit": "hour",
+      "currency": "EUR"
+    },
+    "available_from": "2026-11-15"
+  },
+  "04_david_message_de.txt": {
+    "name": "David Demo",
+    "email": "david.demo@example.net",
+    "phone": "+493023125004",
+    "postal_code": "47051",
+    "city": "Duisburg",
+    "languages": [
+      {
+        "language": "German",
+        "level": "fluent"
+      },
+      {
+        "language": "Arabic",
+        "level": "native"
+      }
+    ],
+    "driving_licence": [
+      "B"
+    ],
+    "forklift_licence": true,
+    "skills": [
+      "warehouse"
+    ],
+    "shift_available": [
+      "early",
+      "late",
+      "night"
+    ],
+    "shift_unavailable": [],
+    "salary": {
+      "amount_min": 15,
+      "amount_max": 15,
+      "unit": "hour",
+      "currency": "EUR"
+    },
+    "available_from": null
+  },
+  "05_elif_cv_de.txt": {
+    "name": "Elif Testfrau",
+    "email": "elif.testfrau@example.com",
+    "phone": "+493023125005",
+    "postal_code": "44787",
+    "city": "Bochum",
+    "languages": [
+      {
+        "language": "German",
+        "level": "C1"
+      },
+      {
+        "language": "Turkish",
+        "level": "native"
+      },
+      {
+        "language": "English",
+        "level": "basic"
+      }
+    ],
+    "driving_licence": [
+      "B",
+      "BE"
+    ],
+    "forklift_licence": true,
+    "skills": [
+      "order picking",
+      "packing",
+      "shipping"
+    ],
+    "shift_available": [
+      "early",
+      "late",
+      "night"
+    ],
+    "shift_unavailable": [],
+    "salary": {
+      "amount_min": 3100,
+      "amount_max": 3100,
+      "unit": "month",
+      "currency": "EUR"
+    },
+    "available_from": "2026-12-01"
+  },
+  "06_felix_cv_en_hard.txt": {
+    "name": "Felix Fiktiv",
+    "email": "felix.fiktiv@example.net",
+    "phone": null,
+    "postal_code": "50667",
+    "city": "Köln",
+    "languages": [
+      {
+        "language": "German",
+        "level": "native"
+      },
+      {
+        "language": "English",
+        "level": "B2"
+      }
+    ],
+    "driving_licence": [
+      "B"
+    ],
+    "forklift_licence": true,
+    "skills": [],
+    "shift_available": [
+      "late",
+      "weekend"
+    ],
+    "shift_unavailable": [
+      "night"
+    ],
+    "salary": {
+      "amount_min": 13,
+      "amount_max": 15,
+      "unit": "hour",
+      "currency": "EUR"
+    },
+    "available_from": null
+  },
+  "07_gina_cv_en.txt": {
+    "name": "Gina Probe",
+    "email": "gina.probe@example.net",
+    "phone": null,
+    "postal_code": "48143",
+    "city": "Münster",
+    "languages": [
+      {
+        "language": "Polish",
+        "level": "native"
+      },
+      {
+        "language": "German",
+        "level": "A2"
+      },
+      {
+        "language": "English",
+        "level": "B1"
+      }
+    ],
+    "driving_licence": [
+      "B"
+    ],
+    "forklift_licence": null,
+    "skills": [
+      "customer service",
+      "packing"
+    ],
+    "shift_available": [
+      "early",
+      "late"
+    ],
+    "shift_unavailable": [
+      "weekend"
+    ],
+    "salary": {
+      "amount_min": 12.9,
+      "amount_max": 12.9,
+      "unit": "hour",
+      "currency": "EUR"
+    },
+    "available_from": "immediately"
+  },
+  "08_hasan_negations_de.txt": {
+    "name": "Hasan Beispielmann",
+    "email": "hasan.beispielmann@example.com",
+    "phone": null,
+    "postal_code": null,
+    "city": null,
+    "languages": [
+      {
+        "language": "German",
+        "level": "B2"
+      },
+      {
+        "language": "English",
+        "level": "A2"
+      }
+    ],
+    "driving_licence": [],
+    "forklift_licence": false,
+    "skills": [
+      "goods receiving",
+      "warehouse"
+    ],
+    "shift_available": [],
+    "shift_unavailable": [
+      "night",
+      "weekend"
+    ],
+    "salary": null,
+    "available_from": null
+  },
+  "09_iris_cv_de.txt": {
+    "name": "Dr. Iris Fiktivova",
+    "email": "iris.fiktivova@example.org",
+    "phone": "+493023125006",
+    "postal_code": "40213",
+    "city": "Düsseldorf",
+    "languages": [
+      {
+        "language": "German",
+        "level": "C2"
+      },
+      {
+        "language": "English",
+        "level": "C1"
+      },
+      {
+        "language": "French",
+        "level": "B1"
+      }
+    ],
+    "driving_licence": [
+      "B"
+    ],
+    "forklift_licence": null,
+    "skills": [
+      "customer service",
+      "MS Office",
+      "SAP"
+    ],
+    "shift_available": [],
+    "shift_unavailable": [],
+    "salary": {
+      "amount_min": 48000,
+      "amount_max": 48000,
+      "unit": "year",
+      "currency": "EUR"
+    },
+    "available_from": "2027-01-01"
+  },
+  "10_jonas_messy.txt": {
+    "name": "Jonas Demo",
+    "email": null,
+    "phone": "+493023125007",
+    "postal_code": "40213",
+    "city": "Düsseldorf",
+    "languages": [
+      {
+        "language": "German",
+        "level": "B2"
+      },
+      {
+        "language": "English",
+        "level": "A2"
+      }
+    ],
+    "driving_licence": [
+      "B"
+    ],
+    "forklift_licence": true,
+    "skills": [],
+    "shift_available": [
+      "night",
+      "weekend"
+    ],
+    "shift_unavailable": [],
+    "salary": {
+      "amount_min": 14,
+      "amount_max": 14,
+      "unit": "hour",
+      "currency": "EUR"
+    },
+    "available_from": "immediately"
+  },
+  "11_ida_cv_en.txt": {
+    "name": "Ida Muster",
+    "email": "ida.muster@example.com",
+    "phone": "+493023125008",
+    "postal_code": "59065",
+    "city": "Hamm",
+    "languages": [
+      {
+        "language": "Ukrainian",
+        "level": "native"
+      },
+      {
+        "language": "Russian",
+        "level": "native"
+      },
+      {
+        "language": "German",
+        "level": "B2"
+      },
+      {
+        "language": "English",
+        "level": "A2"
+      }
+    ],
+    "driving_licence": [
+      "B"
+    ],
+    "forklift_licence": null,
+    "skills": [
+      "goods receiving",
+      "inventory",
+      "shipping",
+      "warehouse"
+    ],
+    "shift_available": [
+      "early",
+      "late"
+    ],
+    "shift_unavailable": [
+      "weekend"
+    ],
+    "salary": {
+      "amount_min": 2650,
+      "amount_max": 2650,
+      "unit": "month",
+      "currency": "EUR"
+    },
+    "available_from": null
+  },
+  "12_jan_cv_de.txt": {
+    "name": "Jan Muster",
+    "email": "jan.muster@example.org",
+    "phone": "+493023125009",
+    "postal_code": "48143",
+    "city": "Münster",
+    "languages": [
+      {
+        "language": "German",
+        "level": "native"
+      },
+      {
+        "language": "English",
+        "level": "B1"
+      }
+    ],
+    "driving_licence": [
+      "B"
+    ],
+    "forklift_licence": false,
+    "skills": [
+      "order picking",
+      "packing"
+    ],
+    "shift_available": [],
+    "shift_unavailable": [],
+    "salary": {
+      "amount_min": 13,
+      "amount_max": 15,
+      "unit": "hour",
+      "currency": "EUR"
+    },
+    "available_from": null
+  }
+}

@@ -1,0 +1,15 @@
+Steckbrief Bewerber
+
+Vorname: Murat
+Nachname: Fiktivoglu
+Anschrift: Probestraße 5, 46045 Oberhausen
+Mobil: 030 23125 010
+E-Mail: murat.fiktivoglu@example.com
+
+Muttersprache: Türkisch. Deutsch: gute Kenntnisse. Englisch: Grundkenntnisse.
+Führerschein: B
+Gabelstaplerschein: ja (seit 2021)
+Bereit für: Früh- und Nachtschicht, Wochenende nach Absprache.
+Gehalt: 14 € pro Stunde brutto
+Eintritt: zum 01.02.2027
+Bisher tätig als: Lagerist, Kommissionierer

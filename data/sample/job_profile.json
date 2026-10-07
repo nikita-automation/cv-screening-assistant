@@ -1,0 +1,27 @@
+{
+  "title": "Warehouse operator, late shift (fictional vacancy)",
+  "must_have": {
+    "forklift_licence": true,
+    "languages": [
+      {
+        "language": "German",
+        "min_level": "B1"
+      }
+    ],
+    "shift": [
+      "late"
+    ]
+  },
+  "nice_to_have": {
+    "driving_licence": [
+      "B"
+    ],
+    "skills": [
+      "order picking",
+      "inventory"
+    ],
+    "shift": [
+      "weekend"
+    ]
+  }
+}
