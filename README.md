@@ -2,6 +2,8 @@
 
 [![ci](https://github.com/nikita-automation/cv-screening-assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/nikita-automation/cv-screening-assistant/actions/workflows/ci.yml)
 
+> **Kurz auf Deutsch:** Macht aus Lebensläufen, Anschreiben und Fragebögen (Deutsch oder Englisch) ein strukturiertes Profil, etwa Staplerschein, Führerschein, Wohnort, Sprachen, Schichtbereitschaft und Gehaltswunsch, und gleicht es mit einer Stelle ab, mit Begründung für jedes Ergebnis. Zwei Backends (Regeln und Claude), ausgewertet auf einem zurückgehaltenen Testset. Erfundene Demodaten.
+
 Turns CVs, cover messages and applicant questionnaires (German or English, plain text) into a **structured
 profile** — skills, forklift and driving licences, place of residence, languages with level, shift
 availability, salary expectation — and compares profiles with a vacancy's requirements, **explaining every
@@ -169,3 +171,7 @@ skipped a language after another one — plus a dead code path and several untes
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+**Autor:** Nikita Rozumnyi · KI-Automatisierung für Unternehmen · [nikita-automation.de](https://nikita-automation.de) · [LinkedIn](https://www.linkedin.com/in/nikita-rozumniy) · [alle Projekte](https://github.com/nikita-automation)
